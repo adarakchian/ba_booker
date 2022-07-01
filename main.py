@@ -301,8 +301,3 @@ if __name__ == '__main__':
     )
     booker = BaFlightBooker()
     booker.run_search(params)
-
-# check if still need login
-# if yes:
-# write login code
-# when login success save cookies using
