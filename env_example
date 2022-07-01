@@ -1,0 +1,12 @@
+title = Mr
+first_name = John
+last_name = Smith
+email = smith@gmail.com
+phone_number = 7846987789
+payment_method = MasterCard
+card_number = 0000000000000000
+card_exp = 0826
+cvv = 179
+address_line_1 = 1 Westminster Square
+address_line_2 = London
+post_code = WC1 0AB
